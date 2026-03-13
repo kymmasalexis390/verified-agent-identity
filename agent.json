@@ -1,7 +1,6 @@
 {
-  "agent_name": "kymmasalexis390",
-  "agent_type": "human",
+  "name": "kymmasalexis390",
+  "type": "human",
   "platform": "github",
-  "github_username": "kymmasalexis390",
-  "description": "Billions verified agent"
+  "handle": "kymmasalexis390"
 }
